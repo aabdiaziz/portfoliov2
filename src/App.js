@@ -1,9 +1,10 @@
+import TopBar from "./components/topBar/TopBar";
 
 
 function App() {
   return (
     <div className="app">
-      topBar
+      <TopBar/>
       Section
         1. intro
         2.port
